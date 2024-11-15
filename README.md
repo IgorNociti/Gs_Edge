@@ -17,6 +17,7 @@ Dois LDRs (resistores dependentes de luz)
 Resistores de 10kΩ
 Fios de conexão e uma protoboard
 Um Arduino (como o Arduino Uno)
+
 🔧 Instalação
 Para que o código funcione você precisa:
 
@@ -33,6 +34,7 @@ Pino A1 → LDR direito (com resistor para GND)
 Pino 5 → Fio de sinal do micro servo
 Pino 5V → Fios de alimentação dos LDRs e do servo
 GND → Conectado aos resistores e ao servo
+
 ⚙️ Executando os testes
 Para verificarmos se os LDRs estavam dando certo, printamos eles no Serial, assim sabendo a luminosidade de cada lado.
 
