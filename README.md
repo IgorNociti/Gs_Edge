@@ -1,6 +1,6 @@
 # Gs_Edge
 integrantes: Henrique Maciel Rodrigues / 559628 ; Igor Pereira Nociti / 560225 ; Pedro Paulo Sabino / 559578; Sala: 1ESPS
-Link do projeto: https://www.tinkercad.com/things/0Txy9VUrnHi-gs-painel-solar/editel
+Link do projeto: https://www.tinkercad.com/things/0Txy9VUrnHi-gs-painel-solar/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=-i8exTWHrZwx_rfuLW_tZC7cerccji9AXkNLFhnv0CU
 Link do video: https://youtu.be/S7EHCU_DAPQ
 
 
